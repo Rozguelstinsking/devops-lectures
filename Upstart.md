@@ -2,10 +2,10 @@
 
 
 #  Upstart
-#### * Upstart es un evento basado en el reemplazo del daemon /sbin/init el cual maneja el inicio de tareas y servicios durante el booting(booteo).Deteniendolas durante el apagado y supervisandolas mientras el sistema esta corriendo. *
+#### *Upstart es un evento basado en el reemplazo del daemon /sbin/init el cual maneja el inicio de tareas y servicios durante el booting(booteo).Deteniendolas durante el apagado y supervisandolas mientras el sistema esta corriendo.*
 
 
-#### * Fue desarrollado originalmente para la distro Ubuntu.Pero se intenta que sea adecuado para el despliegue en todas las distros Linux como un remplazo para System-V init. *
+#### *Fue desarrollado originalmente para la distro Ubuntu.Pero se intenta que sea adecuado para el despliegue en todas las distros Linux como un remplazo para System-V init.*
 
 # HIGH LIGHTS
 ####  - Tareas y servicios son iniciados y detenidos por eventos.
